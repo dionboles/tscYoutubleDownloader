@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.12.54",
+    "@types/node": "^12.12.55",
     "youtube-dl": "^2.0.1"
   }
 }
